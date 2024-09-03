@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ochiel
 - 👀 I’m interested in web and mobile applications
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on any Laravel project
 - 📫 How to reach me youngochiel@gmail.com
 
